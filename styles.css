@@ -51,7 +51,7 @@ a {
 
 header {
   text-align: center;
-  background-image: url(images/background.svg);
+  background-image: url(images/background-blue.svg);
   background-size: cover;
   overflow: hidden;
   padding-top: 100px;
@@ -64,7 +64,7 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 3px solid white;
+  border: 6px solid #F2CB9B;
   transition: all .5s;
 }
 header .profile-image:hover {
@@ -72,7 +72,7 @@ header .profile-image:hover {
 }
 .experience-header {
   text-align: center;
-  background-image: url(images/background.svg);
+  background-image: url(images/background-blue.svg);
   background-size: cover;
   overflow: hidden;
   padding-top: 100px;
